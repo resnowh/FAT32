@@ -1,0 +1,13 @@
+﻿*.img
+!disk_test.img
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.user
+*.suo
+.vs/
+x64/
+Debug/
+Release/
+ipch/
